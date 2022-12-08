@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742085125190",
+    "project_id": "livelocationflutterfirebase",
+    "storage_bucket": "livelocationflutterfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742085125190:android:f84f0d7d206bfa8b279647",
+        "android_client_info": {
+          "package_name": "com.example.livelocationfirebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742085125190-2n6a5n1uub9t3t4j154jpql4darvfco0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2fIZ4HlCUuMwbUH7UrVg1CvGNDZecgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742085125190-2n6a5n1uub9t3t4j154jpql4darvfco0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
